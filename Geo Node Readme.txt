@@ -45,7 +45,7 @@ Any mesh you put into the target collection will be randomly clustered together 
 
 
 
-CRYSTALS ON FACES
+CRYSTAL GROWTH
 
 Drag the modifier from your library onto a mesh.  This will be what the crystals grow from.
 
