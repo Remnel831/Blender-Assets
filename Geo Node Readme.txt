@@ -100,4 +100,39 @@ Sucker Length sets how far in or out the suckers go
 
 Sucker Density changes how many suckers are packed into the section of tentacle. 
 
+STITCHING
+
+Drag the modifer from your library onto an object and then create a curve to assign to the stitch curve box
+
+the stitches will now generate along the curve and pull the mesh tight around them if you have enough geometry.
+
+Stitch scale adjusts how big the individual stitches are.
+
+Stitch radius adjusts how thick the individual stitches are.
+
+Stitch offset adjusts how far off the mesh your stitches will be. The spaces between stitches will still go under the surface.
+
+Stitch curve tells the nodes which curve to follow
+
+Stitch material changes the color/material settings of the curve.
+
+Stitch spacing adjusts how far apart the individual stitches are. 
+
+SCALES
+
+Drag the modifier from your library onto an object.  This is what the scales will generate on.  They are scaled to match the face they generate on, so more geometry = more scales.
+
+Scale size adjusts the scale of the individual scales.
+
+Tilt adjusts the X rotation of the scales.
+
+Swivel adjusts the Y rotation of the scales.
+
+Rotation adjusts the Z rotation of the scales.
+
+Scales model is the model that will be generated on the faces.
+
+Scales depth adjusts the thickness of the scale mesh.
+
+ScaleVertexGroup allows you to isolate the area of mesh the scales generate on.
 
