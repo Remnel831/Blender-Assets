@@ -134,7 +134,7 @@ Drag the modifer from your library onto an object and then create a curve to ass
 
 Options | Description
 --- | --- 
-**Stitch scale**| `adjusts how big the individual stitches are.` 
+**Stitch scale**| `adjusts how big the individual stitches are. If your stitches aren't showing up try turning this up to 20 and adjusting from there` 
 **Stitch radius**| `adjusts how thick the individual stitches are.` 
 **Stitch offset**| `adjusts how far off the mesh your stitches will be. The spaces between stitches will still go under the surface.` 
 **Stitch curve**| `tells the nodes which curve to follow.` 
