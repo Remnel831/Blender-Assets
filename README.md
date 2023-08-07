@@ -1,7 +1,7 @@
 
 # Blender Geo Nodes
 
-A collection of 8 nodes that you may use in your project to make awesome effects.
+A collection of 9 nodes that you may use in your project to make awesome effects.
 
 # How to use the Geo Nodes
 
@@ -163,3 +163,25 @@ Options | Description
 ## Example
 
 ![App Screenshot](https://i.imgur.com/JQcMKIt.jpeg)
+
+## Wrap
+#### Information 
+---
+Drag the modifier from your library onto an object.  This will be the wrap.  Set the Object to be wrapped to your target to start.  The origin of the wrap matters for best results center it on your target.  The wrap generates from the origin point and won't pass it.
+To add UV maps to the wrap you have to apply the modifier and manually unwrap it from there.
+
+Options | Description 
+--- | ---
+**Object to be Wrapped**| `Target object the wrap will apply to.`
+**Thickness**| `Adjusts how thick the wrap is.`
+**Wrap Width**| `Changes how wide the wrap is.`
+**Wrap Length**| `Changes how far up or down the object the wrap travels.`
+**Rotations**| `How many times the wrap goes around the object before it reaches the set length.`
+**Offset**| `How far off the target the wrap sits.`
+**Overlap**| `Adjusts the radius of the wrap at the top or bottom edge to add the appearance of overlapping`
+**Flip Spiral Direction**| `Changes if the wrap curls clockwise or counter clockwise.  Note that the offset won't work for both directions so you'll have to adjust it as well.`
+**Wrap Material**| `The material your wrap will use. It won't have UV's until you apply the modifier so during the setup it will just change the color.`
+
+## Example
+
+! [App Screenshot] (https://i.imgur.com/TpHorhX.png)
