@@ -184,4 +184,5 @@ Options | Description
 
 ## Example
 
-! [App Screenshot] (https://i.imgur.com/TpHorhX.png)
+![App Screenshot](https://i.imgur.com/TpHorhX.png)
+
