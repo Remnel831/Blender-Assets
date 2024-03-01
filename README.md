@@ -191,6 +191,7 @@ Options | Description
 ---
 Creates a procedurally generated barrel
 Options | Description 
+--- | ---
 **Random Barrel Seed**| `Changes the seed used for the plank heights. Allows for random varients.`
 **Plank Count**| `Changes how many planks make up the body of the barrel.  Adjust width accordingly.`
 **Barrel Height**| `Changes how tall the barrel is.`
