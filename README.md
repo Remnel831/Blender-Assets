@@ -186,3 +186,17 @@ Options | Description
 
 ![App Screenshot](https://i.imgur.com/TpHorhX.png)
 
+## Barrel
+#### Information 
+---
+Creates a procedurally generated barrel
+Options | Description 
+**Random Barrel Seed**| `Changes the seed used for the plank heights. Allows for random varients.`
+**Plank Count**| `Changes how many planks make up the body of the barrel.  Adjust width accordingly.`
+**Barrel Height**| `Changes how tall the barrel is.`
+**Plank Width**| `How wide the individual planks are. Basically adjusts the gaps between planks.
+**Barrel Bowing**| `How strong the bend in the middle of the barrel is.`
+**Metal Ring Size**| `The height and width of the metal rings that hold the planks together`
+
+## Example
+!![App Screenshot](https://i.imgur.com/zADVNtM.png)
