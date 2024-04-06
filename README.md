@@ -1,7 +1,7 @@
 
 # Blender Geo Nodes
 
-A collection of 9 nodes that you may use in your project to make awesome effects.
+A collection of 9 nodes that you may use in your project to make effects.
 
 # How to use the Geo Nodes
 
@@ -130,7 +130,7 @@ Remnels Notes:
 #### Information
 ---
 Drag the modifer from your library onto an object and then create a curve to assign to the stitch curve box, the stitches will now generate along the curve and pull the mesh tight around them if you have enough geometry.
-
+The modifier includes a subdivision node so if you're adding multiple stitches make sure to turn the node off.
 
 Options | Description
 --- | --- 
@@ -195,7 +195,7 @@ Options | Description
 **Random Barrel Seed**| `Changes the seed used for the plank heights. Allows for random varients.`
 **Plank Count**| `Changes how many planks make up the body of the barrel.  Adjust width accordingly.`
 **Barrel Height**| `Changes how tall the barrel is.`
-**Plank Width**| `How wide the individual planks are. Basically adjusts the gaps between planks.
+**Plank Width**| `How wide the individual planks are. Basically adjusts the gaps between planks.`
 **Barrel Bowing**| `How strong the bend in the middle of the barrel is.`
 **Metal Ring Size**| `The height and width of the metal rings that hold the planks together`
 
