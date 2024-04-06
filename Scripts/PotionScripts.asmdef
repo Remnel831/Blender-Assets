@@ -1,5 +1,5 @@
 {
-    "name": "GenericScript",
+    "name": "PotionScripts",
     "rootNamespace": "",
     "references": [
         "GUID:270d048a808d7de489542fd0df53923c"
